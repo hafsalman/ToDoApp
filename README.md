@@ -32,13 +32,20 @@ This app allows users to add, manage, and delete daily tasks efficiently.
 git clone https://github.com/hafsalman/ToDoApp/
 ```
 
-### 2️⃣ Navigate to Project Folder
+### 2️⃣ Install Dependencies 
+
+``` bash
+npx create-expo-app MyApp --template expo-template-blank
+```
+
+### 3️⃣ Navigate to Project Folder
 
 ``` bash
 cd TodoApp
 ```
+(Replace the default App.js with the cloned App.js and add the TodoItem.js in the Todo folder)
 
-### 3️⃣ Start the Development Server
+### 4️⃣ Start the Development Server
 
 ``` bash
 npx expo start
