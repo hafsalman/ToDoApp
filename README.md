@@ -53,16 +53,6 @@ npx expo start
 
 ---
 
-## Running the App
-
-You can run the app using:
-
-- **Expo Go** (Scan QR code using mobile)
-- Android Emulator (Press `a`)
-- Web (Press `w`)
-
----
-
 ## Learning Objective
 
 This project was developed as part of coursework to understand:
