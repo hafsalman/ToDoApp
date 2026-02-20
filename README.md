@@ -29,13 +29,13 @@ This app allows users to add, manage, and delete daily tasks efficiently.
 ### 1️⃣ Clone the Repository
 
 ``` bash
-git clone https://github.com/hafsalman/ToDoApp/
+git clone https://github.com/hafsalman/ToDoApp
 ```
 
 ### 2️⃣ Install Dependencies 
 
 ``` bash
-npx create-expo-app MyApp --template expo-template-blank
+npx create-expo-app Todo --template expo-template-blank
 ```
 
 ### 3️⃣ Navigate to Project Folder
