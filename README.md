@@ -32,7 +32,7 @@ This app allows users to add, manage, and delete daily tasks efficiently.
 git clone https://github.com/hafsalman/ToDoApp
 ```
 
-### 2️⃣ Install Dependencies 
+### 2️⃣ Initialize Expo Project 
 
 ``` bash
 npx create-expo-app Todo --template expo-template-blank
