@@ -90,22 +90,22 @@ const styles = StyleSheet.create({
   input: {
     flex: 1,
     borderWidth: 2,
-    borderColor: '#6200EE', // Deep purple border
+    borderColor: '#6200EE',
     backgroundColor: '#FFFFFF',
     padding: 10,
     marginRight: 10,
-    borderRadius: 8, // Slightly rounded corners for a modern look
-    color: '#311B92' // Very dark purple text while typing
+    borderRadius: 8,
+    color: '#311B92'
   },
   addButton: {
-    backgroundColor: '#6200EE', // Your deep purple theme color
+    backgroundColor: '#6200EE', 
     paddingHorizontal: 20,
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 8, // Matches your input box
+    borderRadius: 8,
   },
   addButtonText: {
-    color: '#FFFFFF', // White text to stand out against the purple
+    color: '#FFFFFF',
     fontWeight: 'bold',
     fontSize: 16,
   }
